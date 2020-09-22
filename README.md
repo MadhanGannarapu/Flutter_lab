@@ -1,6 +1,6 @@
 # flutter_lab
 
-A new Flutter project.
+The idea behind the this repository is to Explore the Flutter widgets and improve my Flutter development skill
 
 ## Getting Started
 
